@@ -1,0 +1,14 @@
+{
+  "name": "array-methods",
+  "version": "1.0.0",
+  "description": "heello",
+  "main": "index.js",
+  "scripts": {
+    "test": "good"
+  },
+  "keywords": [
+    "35"
+  ],
+  "author": "ayeza",
+  "license": "ISC"
+}
